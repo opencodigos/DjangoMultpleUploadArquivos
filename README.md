@@ -311,3 +311,6 @@ Como fazer upload de varíos arquivos no django.
     ``` 
 
 </details>
+
+DJANGO 4.2 ATUALIZAÇÃO
+https://github.com/djangomy/multiple-upload-files/tree/multiple-upload-files-Django42
